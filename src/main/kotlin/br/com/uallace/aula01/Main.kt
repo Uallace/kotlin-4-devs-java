@@ -1,4 +1,4 @@
-package br.com.uallace
+package br.com.uallace.aula01
 
 fun main(args: Array<String>) {
 
