@@ -1,4 +1,4 @@
-package br.com.uallace.session07.`02_annotations`
+package br.com.uallace.session07.annotations_02
 
 fun main(){
 
