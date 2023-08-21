@@ -14,6 +14,8 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation ("org.amshove.kluent:kluent:1.68")
+
 }
 
 tasks.test {
