@@ -1,4 +1,4 @@
-package br.com.uallace.session05
+package br.com.uallace.session05.criando_classes
 
 fun main(){
     // instacia a classe person, nao é necessario usar new

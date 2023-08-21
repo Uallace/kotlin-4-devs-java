@@ -1,4 +1,4 @@
-package br.com.uallace.session05
+package br.com.uallace.session05.criando_classes
 
 // podemos criar o construtor dessas duas formas
 //class Person constructor (firstName:  String, lastName:  String){
