@@ -1,4 +1,4 @@
-package br.com.uallace.session08.LambdaExpression
+package br.com.uallace.session08.lambdaExpression
 
 data class Student(val name: String, val age: Int)
 
